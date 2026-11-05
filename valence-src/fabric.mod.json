@@ -1,0 +1,48 @@
+{
+	"schemaVersion": 1,
+	"id": "valence",
+	"version": "1.9.2",
+	"name": "Valence",
+	"description": "More than just a mod. 25 animated skies, Spotify lyrics in the sky, floating or on screen, and PvP styles.",
+	"authors": [
+		"Valence"
+	],
+	"license": "All-Rights-Reserved",
+	"icon": "assets/valence/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"dev.valence.ValenceClient"
+		]
+	},
+	"mixins": [
+		{
+			"config": "valence.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.19.0",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	},
+	"jars": [
+		{
+			"file": "META-INF/jars/lithium-fabric-0.26.3+mc26.3.jar"
+		},
+		{
+			"file": "META-INF/jars/ImmediatelyFast-Fabric-1.17.1+26.3.jar"
+		}
+	],
+	"recommends": {
+		"sodium": "*",
+		"entityculling": "*"
+	},
+	"contributors": [
+		"polishtraps85 (Lyrics Cord engine, MIT)"
+	],
+	"breaks": {
+		"neonlyrics": "*"
+	}
+}

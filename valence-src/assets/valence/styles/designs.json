@@ -1,0 +1,1159 @@
+{
+ "_info": "Valence built-in style designs. Each design is a list of operations applied to the vanilla texture (see Recipes.java).",
+ "crystal": [
+  {
+   "id": "amethyst",
+   "swatch": "#8b3dff",
+   "ops": [
+    {
+     "op": "map",
+     "region": "core",
+     "colors": [
+      "#2a0a4a",
+      "#8b3dff",
+      "#e6c8ff"
+     ]
+    },
+    {
+     "op": "map",
+     "region": "glass",
+     "colors": [
+      "#5b3fa8",
+      "#d9c7ff"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rose",
+   "swatch": "#ff4fa3",
+   "ops": [
+    {
+     "op": "map",
+     "region": "core",
+     "colors": [
+      "#4a0a24",
+      "#ff4fa3",
+      "#ffd1e8"
+     ]
+    },
+    {
+     "op": "map",
+     "region": "glass",
+     "colors": [
+      "#a0607e",
+      "#ffe4f0"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "aqua",
+   "swatch": "#21d4fd",
+   "ops": [
+    {
+     "op": "map",
+     "region": "core",
+     "colors": [
+      "#06303a",
+      "#21d4fd",
+      "#d7fbff"
+     ]
+    },
+    {
+     "op": "map",
+     "region": "glass",
+     "colors": [
+      "#4aa3b8",
+      "#e8fdff"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "blueberry",
+   "swatch": "#3b5bff",
+   "ops": [
+    {
+     "op": "map",
+     "region": "core",
+     "colors": [
+      "#0b1450",
+      "#3b5bff",
+      "#c9d4ff"
+     ]
+    },
+    {
+     "op": "map",
+     "region": "glass",
+     "colors": [
+      "#3b4f9e",
+      "#dbe3ff"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "toxic",
+   "swatch": "#4dff6a",
+   "ops": [
+    {
+     "op": "map",
+     "region": "core",
+     "colors": [
+      "#0a3010",
+      "#4dff6a",
+      "#e0ffe0"
+     ]
+    },
+    {
+     "op": "map",
+     "region": "glass",
+     "colors": [
+      "#4f8f55",
+      "#e6ffe8"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "inferno",
+   "swatch": "#ff5a1f",
+   "ops": [
+    {
+     "op": "map",
+     "region": "core",
+     "colors": [
+      "#3a0800",
+      "#ff5a1f",
+      "#ffe0a0"
+     ]
+    },
+    {
+     "op": "map",
+     "region": "glass",
+     "colors": [
+      "#9e5a3b",
+      "#ffe9d6"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "void",
+   "swatch": "#2a0f45",
+   "ops": [
+    {
+     "op": "map",
+     "region": "core",
+     "colors": [
+      "#000000",
+      "#2a0f45",
+      "#b06bff"
+     ]
+    },
+    {
+     "op": "map",
+     "region": "glass",
+     "colors": [
+      "#1a1424",
+      "#7a6a9a"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gold",
+   "swatch": "#ffc21f",
+   "ops": [
+    {
+     "op": "map",
+     "region": "core",
+     "colors": [
+      "#3a2400",
+      "#ffc21f",
+      "#fff3c0"
+     ]
+    },
+    {
+     "op": "map",
+     "region": "glass",
+     "colors": [
+      "#a08440",
+      "#fff6d8"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "frost",
+   "swatch": "#cfe8ff",
+   "ops": [
+    {
+     "op": "map",
+     "region": "core",
+     "colors": [
+      "#3a5068",
+      "#cfe8ff",
+      "#ffffff"
+     ]
+    },
+    {
+     "op": "map",
+     "region": "glass",
+     "colors": [
+      "#9fb4c8",
+      "#ffffff"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "neon",
+   "swatch": "#ff2fd8",
+   "ops": [
+    {
+     "op": "map",
+     "region": "core",
+     "colors": [
+      "#2a0030",
+      "#ff2fd8",
+      "#ffd0f8"
+     ]
+    },
+    {
+     "op": "map",
+     "region": "glass",
+     "colors": [
+      "#00a8c0",
+      "#7dffff"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sunset",
+   "swatch": "#ff8a4f",
+   "ops": [
+    {
+     "op": "gradient",
+     "region": "core",
+     "from": "#ff3f8b",
+     "to": "#ffb34f",
+     "dir": "h"
+    },
+    {
+     "op": "map",
+     "region": "glass",
+     "colors": [
+      "#9e6a7a",
+      "#ffe6d6"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ruby",
+   "swatch": "#e3123c",
+   "ops": [
+    {
+     "op": "map",
+     "region": "core",
+     "colors": [
+      "#300008",
+      "#e3123c",
+      "#ff9db0"
+     ]
+    },
+    {
+     "op": "map",
+     "region": "glass",
+     "colors": [
+      "#8a3a48",
+      "#ffd8de"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mono",
+   "swatch": "#bdbdbd",
+   "ops": [
+    {
+     "op": "map",
+     "region": "core",
+     "colors": [
+      "#202020",
+      "#bdbdbd",
+      "#ffffff"
+     ]
+    },
+    {
+     "op": "map",
+     "region": "glass",
+     "colors": [
+      "#6a6a6a",
+      "#ffffff"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eclipse",
+   "swatch": "#101010",
+   "ops": [
+    {
+     "op": "map",
+     "region": "core",
+     "colors": [
+      "#ffffff",
+      "#1a1a1a",
+      "#050505"
+     ]
+    },
+    {
+     "op": "map",
+     "region": "glass",
+     "colors": [
+      "#5a5a5a",
+      "#e0e0e0"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lavender",
+   "swatch": "#b794f6",
+   "ops": [
+    {
+     "op": "map",
+     "region": "core",
+     "colors": [
+      "#3a2a5a",
+      "#b794f6",
+      "#f3ecff"
+     ]
+    },
+    {
+     "op": "map",
+     "region": "glass",
+     "colors": [
+      "#8a7ab0",
+      "#f3ecff"
+     ]
+    }
+   ]
+  }
+ ],
+ "totem": [
+  {
+   "id": "gold",
+   "swatch": "#e8a317",
+   "ops": [
+    {
+     "op": "map",
+     "region": "body",
+     "colors": [
+      "#5a3200",
+      "#e8a317",
+      "#fff3a0"
+     ]
+    },
+    {
+     "op": "map",
+     "region": "eyes",
+     "colors": [
+      "#0a5a2a",
+      "#4dff8a"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ice",
+   "swatch": "#7fd3ff",
+   "ops": [
+    {
+     "op": "map",
+     "region": "body",
+     "colors": [
+      "#1a3a5a",
+      "#7fd3ff",
+      "#ffffff"
+     ]
+    },
+    {
+     "op": "map",
+     "region": "eyes",
+     "colors": [
+      "#006a8a",
+      "#9ff0ff"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "amethyst",
+   "swatch": "#9b5cff",
+   "ops": [
+    {
+     "op": "map",
+     "region": "body",
+     "colors": [
+      "#2a0f45",
+      "#9b5cff",
+      "#f0e0ff"
+     ]
+    },
+    {
+     "op": "map",
+     "region": "eyes",
+     "colors": [
+      "#5a0030",
+      "#ff6ad5"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rose",
+   "swatch": "#ff6aa8",
+   "ops": [
+    {
+     "op": "map",
+     "region": "body",
+     "colors": [
+      "#4a0a24",
+      "#ff6aa8",
+      "#ffe0ee"
+     ]
+    },
+    {
+     "op": "map",
+     "region": "eyes",
+     "colors": [
+      "#2a0040",
+      "#c78bff"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "emerald",
+   "swatch": "#1fd36a",
+   "ops": [
+    {
+     "op": "map",
+     "region": "body",
+     "colors": [
+      "#003a1a",
+      "#1fd36a",
+      "#d0ffe0"
+     ]
+    },
+    {
+     "op": "map",
+     "region": "eyes",
+     "colors": [
+      "#5a4000",
+      "#ffd84f"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "shadow",
+   "swatch": "#2a2338",
+   "ops": [
+    {
+     "op": "map",
+     "region": "body",
+     "colors": [
+      "#050508",
+      "#2a2338",
+      "#7a6a9a"
+     ]
+    },
+    {
+     "op": "map",
+     "region": "eyes",
+     "colors": [
+      "#3a0060",
+      "#d08bff"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ghost",
+   "swatch": "#e8ecff",
+   "ops": [
+    {
+     "op": "map",
+     "region": "body",
+     "colors": [
+      "#8a90a8",
+      "#e8ecff",
+      "#ffffff"
+     ]
+    },
+    {
+     "op": "map",
+     "region": "eyes",
+     "colors": [
+      "#004a6a",
+      "#4fd8ff"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "neon",
+   "swatch": "#ff4fd8",
+   "ops": [
+    {
+     "op": "map",
+     "region": "body",
+     "colors": [
+      "#0a0012",
+      "#24103a"
+     ]
+    },
+    {
+     "op": "outline",
+     "region": "body",
+     "color": "#ff4fd8"
+    },
+    {
+     "op": "map",
+     "region": "eyes",
+     "colors": [
+      "#00e0ff",
+      "#bff8ff"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mini",
+   "swatch": "#ffd84f",
+   "ops": [
+    {
+     "op": "map",
+     "region": "body",
+     "colors": [
+      "#5a3200",
+      "#f0b020",
+      "#fff6b0"
+     ]
+    },
+    {
+     "op": "shrink",
+     "scale": 0.75
+    }
+   ]
+  },
+  {
+   "id": "mini_ice",
+   "swatch": "#9fe0ff",
+   "ops": [
+    {
+     "op": "map",
+     "region": "body",
+     "colors": [
+      "#1a3a5a",
+      "#8fdcff",
+      "#ffffff"
+     ]
+    },
+    {
+     "op": "map",
+     "region": "eyes",
+     "colors": [
+      "#006a8a",
+      "#9ff0ff"
+     ]
+    },
+    {
+     "op": "shrink",
+     "scale": 0.75
+    }
+   ]
+  },
+  {
+   "id": "ruby",
+   "swatch": "#e3123c",
+   "ops": [
+    {
+     "op": "map",
+     "region": "body",
+     "colors": [
+      "#300008",
+      "#e3123c",
+      "#ffb0c0"
+     ]
+    },
+    {
+     "op": "map",
+     "region": "eyes",
+     "colors": [
+      "#6a4a00",
+      "#ffd84f"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ocean",
+   "swatch": "#1f8bff",
+   "ops": [
+    {
+     "op": "gradient",
+     "region": "body",
+     "from": "#1fd1ff",
+     "to": "#2a3bff"
+    },
+    {
+     "op": "map",
+     "region": "eyes",
+     "colors": [
+      "#e8f6ff",
+      "#ffffff"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mono",
+   "swatch": "#9a9a9a",
+   "ops": [
+    {
+     "op": "map",
+     "region": "body",
+     "colors": [
+      "#1a1a1a",
+      "#9a9a9a",
+      "#ffffff"
+     ]
+    },
+    {
+     "op": "map",
+     "region": "eyes",
+     "colors": [
+      "#3a3a3a",
+      "#ffffff"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sunset",
+   "swatch": "#ff8a4f",
+   "ops": [
+    {
+     "op": "gradient",
+     "region": "body",
+     "from": "#ff4f9e",
+     "to": "#ffb34f"
+    },
+    {
+     "op": "map",
+     "region": "eyes",
+     "colors": [
+      "#3a0060",
+      "#c78bff"
+     ]
+    }
+   ]
+  }
+ ],
+ "obsidian": [
+  {
+   "id": "midnight",
+   "swatch": "#14205a",
+   "ops": [
+    {
+     "op": "map",
+     "colors": [
+      "#020210",
+      "#14205a",
+      "#5a7aff"
+     ],
+     "hi": 0.35
+    }
+   ]
+  },
+  {
+   "id": "amethyst",
+   "swatch": "#7b3fd0",
+   "ops": [
+    {
+     "op": "map",
+     "colors": [
+      "#0a0214",
+      "#3a1270",
+      "#b07bff"
+     ],
+     "hi": 0.35
+    }
+   ]
+  },
+  {
+   "id": "crimson",
+   "swatch": "#a01030",
+   "ops": [
+    {
+     "op": "map",
+     "colors": [
+      "#0a0004",
+      "#4a0618",
+      "#ff4a6a"
+     ],
+     "hi": 0.35
+    }
+   ]
+  },
+  {
+   "id": "emerald",
+   "swatch": "#0c8a40",
+   "ops": [
+    {
+     "op": "map",
+     "colors": [
+      "#000a04",
+      "#063a1a",
+      "#3dff9a"
+     ],
+     "hi": 0.35
+    }
+   ]
+  },
+  {
+   "id": "clean",
+   "swatch": "#1a0f2e",
+   "ops": [
+    {
+     "op": "smooth",
+     "amount": 0.7
+    },
+    {
+     "op": "map",
+     "colors": [
+      "#0c0718",
+      "#24163e",
+      "#4a3478"
+     ],
+     "lo": 0.05,
+     "hi": 0.2
+    },
+    {
+     "op": "border",
+     "color": "#3a2a5c"
+    }
+   ]
+  },
+  {
+   "id": "outline",
+   "swatch": "#8b5cf6",
+   "ops": [
+    {
+     "op": "map",
+     "colors": [
+      "#05020a",
+      "#1d1030",
+      "#6a4ab0"
+     ],
+     "hi": 0.35
+    },
+    {
+     "op": "border",
+     "color": "#8b5cf6"
+    }
+   ]
+  },
+  {
+   "id": "outline_white",
+   "swatch": "#e8e0ff",
+   "ops": [
+    {
+     "op": "map",
+     "colors": [
+      "#05020a",
+      "#1d1030",
+      "#6a4ab0"
+     ],
+     "hi": 0.35
+    },
+    {
+     "op": "border",
+     "color": "#e8e0ff"
+    }
+   ]
+  },
+  {
+   "id": "starry",
+   "swatch": "#2a1a50",
+   "ops": [
+    {
+     "op": "map",
+     "colors": [
+      "#020108",
+      "#0d0820",
+      "#2a1a50"
+     ],
+     "hi": 0.35
+    },
+    {
+     "op": "specks",
+     "color": "#ffffff",
+     "density": 0.05,
+     "seed": 4
+    }
+   ]
+  },
+  {
+   "id": "glossy",
+   "swatch": "#3a2a6a",
+   "ops": [
+    {
+     "op": "map",
+     "colors": [
+      "#060312",
+      "#3a2470",
+      "#f0e6ff"
+     ],
+     "gamma": 0.65,
+     "hi": 0.3
+    }
+   ]
+  },
+  {
+   "id": "pink",
+   "swatch": "#ff8ad8",
+   "ops": [
+    {
+     "op": "map",
+     "colors": [
+      "#12040c",
+      "#5a1a46",
+      "#ff8ad8"
+     ],
+     "hi": 0.35
+    }
+   ]
+  },
+  {
+   "id": "ash",
+   "swatch": "#6a6a70",
+   "ops": [
+    {
+     "op": "map",
+     "colors": [
+      "#0a0a0a",
+      "#3a3a3e",
+      "#a0a0aa"
+     ],
+     "hi": 0.35
+    }
+   ]
+  },
+  {
+   "id": "ocean",
+   "swatch": "#0a6a8a",
+   "ops": [
+    {
+     "op": "map",
+     "colors": [
+      "#000a10",
+      "#063a4a",
+      "#3de0ff"
+     ],
+     "hi": 0.35
+    }
+   ]
+  },
+  {
+   "id": "frost",
+   "swatch": "#a8c8e8",
+   "ops": [
+    {
+     "op": "map",
+     "colors": [
+      "#1a2a3a",
+      "#6a8aaa",
+      "#e8f4ff"
+     ],
+     "hi": 0.35
+    }
+   ]
+  }
+ ],
+ "anchor": [
+  {
+   "id": "vibrant",
+   "swatch": "#b03dff",
+   "ops": [
+    {
+     "op": "map",
+     "region": "glow",
+     "colors": [
+      "#3a0070",
+      "#b03dff",
+      "#ffd0ff"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pink",
+   "swatch": "#ff3d9e",
+   "ops": [
+    {
+     "op": "map",
+     "region": "glow",
+     "colors": [
+      "#4a0028",
+      "#ff3d9e",
+      "#ffe0f0"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "golden",
+   "swatch": "#ffa31f",
+   "ops": [
+    {
+     "op": "map",
+     "region": "glow",
+     "colors": [
+      "#4a1a00",
+      "#ffa31f",
+      "#fff3b0"
+     ]
+    },
+    {
+     "op": "map",
+     "region": "frame",
+     "colors": [
+      "#0a0604",
+      "#2a1a10",
+      "#7a5a3a"
+     ],
+     "hi": 0.5
+    }
+   ]
+  },
+  {
+   "id": "aqua",
+   "swatch": "#21d4fd",
+   "ops": [
+    {
+     "op": "map",
+     "region": "glow",
+     "colors": [
+      "#003040",
+      "#21d4fd",
+      "#e0fbff"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "crimson",
+   "swatch": "#ff1f3d",
+   "ops": [
+    {
+     "op": "map",
+     "region": "glow",
+     "colors": [
+      "#3a0004",
+      "#ff1f3d",
+      "#ffd0d8"
+     ]
+    },
+    {
+     "op": "map",
+     "region": "frame",
+     "colors": [
+      "#080204",
+      "#24080e",
+      "#5a2a34"
+     ],
+     "hi": 0.5
+    }
+   ]
+  },
+  {
+   "id": "emerald",
+   "swatch": "#2dff7a",
+   "ops": [
+    {
+     "op": "map",
+     "region": "glow",
+     "colors": [
+      "#003a14",
+      "#2dff7a",
+      "#e0ffe8"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "void",
+   "swatch": "#ffffff",
+   "ops": [
+    {
+     "op": "map",
+     "region": "frame",
+     "colors": [
+      "#000000",
+      "#0a0810",
+      "#2a2440"
+     ],
+     "hi": 0.5
+    },
+    {
+     "op": "map",
+     "region": "glow",
+     "colors": [
+      "#6a6a8a",
+      "#ffffff",
+      "#ffffff"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "frost",
+   "swatch": "#c8e0ff",
+   "ops": [
+    {
+     "op": "map",
+     "region": "frame",
+     "colors": [
+      "#1a2a3a",
+      "#4a6a8a",
+      "#c8e0ff"
+     ],
+     "hi": 0.5
+    },
+    {
+     "op": "map",
+     "region": "glow",
+     "colors": [
+      "#5aa0ff",
+      "#e8f6ff"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "neon",
+   "swatch": "#00f0ff",
+   "ops": [
+    {
+     "op": "map",
+     "region": "frame",
+     "colors": [
+      "#04020a",
+      "#140a22",
+      "#3a2a5a"
+     ],
+     "hi": 0.5
+    },
+    {
+     "op": "map",
+     "region": "glow",
+     "colors": [
+      "#00303a",
+      "#00f0ff",
+      "#ffffff"
+     ]
+    },
+    {
+     "op": "border",
+     "region": "frame",
+     "color": "#ff3dd8",
+     "frame": 16
+    }
+   ]
+  },
+  {
+   "id": "mono",
+   "swatch": "#9a9a9a",
+   "ops": [
+    {
+     "op": "map",
+     "region": "frame",
+     "colors": [
+      "#0a0a0a",
+      "#3a3a3a",
+      "#9a9a9a"
+     ],
+     "hi": 0.5
+    },
+    {
+     "op": "map",
+     "region": "glow",
+     "colors": [
+      "#5a5a5a",
+      "#ffffff"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "outline",
+   "swatch": "#b794ff",
+   "ops": [
+    {
+     "op": "border",
+     "region": "frame",
+     "color": "#b794ff",
+     "frame": 16
+    }
+   ]
+  },
+  {
+   "id": "royal",
+   "swatch": "#c8a040",
+   "ops": [
+    {
+     "op": "map",
+     "region": "frame",
+     "colors": [
+      "#0a0604",
+      "#3a2a10",
+      "#b09050"
+     ],
+     "hi": 0.5
+    },
+    {
+     "op": "map",
+     "region": "glow",
+     "colors": [
+      "#3a0070",
+      "#9b5cff",
+      "#efe0ff"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ice",
+   "swatch": "#9fc8ff",
+   "ops": [
+    {
+     "op": "map",
+     "region": "glow",
+     "colors": [
+      "#2a4aa0",
+      "#9fc8ff",
+      "#ffffff"
+     ]
+    }
+   ]
+  }
+ ]
+}

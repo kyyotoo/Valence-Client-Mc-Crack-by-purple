@@ -1,0 +1,136 @@
+{
+  "ui.hover": {
+    "sounds": [
+      {
+        "name": "valence:ui/hover",
+        "volume": 1.0
+      }
+    ]
+  },
+  "ui.click": {
+    "sounds": [
+      {
+        "name": "valence:ui/click",
+        "volume": 1.0
+      }
+    ]
+  },
+  "ui.toggle_on": {
+    "sounds": [
+      {
+        "name": "valence:ui/toggle_on",
+        "volume": 1.0
+      }
+    ]
+  },
+  "ui.toggle_off": {
+    "sounds": [
+      {
+        "name": "valence:ui/toggle_off",
+        "volume": 1.0
+      }
+    ]
+  },
+  "ui.open": {
+    "sounds": [
+      {
+        "name": "valence:ui/open",
+        "volume": 1.0
+      }
+    ]
+  },
+  "ui.soft.hover": {
+    "sounds": [
+      {
+        "name": "valence:ui/soft/hover0"
+      },
+      {
+        "name": "valence:ui/soft/hover1"
+      },
+      {
+        "name": "valence:ui/soft/hover2"
+      }
+    ]
+  },
+  "ui.soft.click": {
+    "sounds": [
+      {
+        "name": "valence:ui/soft/click0"
+      },
+      {
+        "name": "valence:ui/soft/click1"
+      },
+      {
+        "name": "valence:ui/soft/click2"
+      }
+    ]
+  },
+  "ui.soft.toggle_on": {
+    "sounds": [
+      {
+        "name": "valence:ui/soft/toggle_on"
+      }
+    ]
+  },
+  "ui.soft.toggle_off": {
+    "sounds": [
+      {
+        "name": "valence:ui/soft/toggle_off"
+      }
+    ]
+  },
+  "ui.soft.open": {
+    "sounds": [
+      {
+        "name": "valence:ui/soft/open"
+      }
+    ]
+  },
+  "ui.creamy.hover": {
+    "sounds": [
+      {
+        "name": "valence:ui/creamy/hover0"
+      },
+      {
+        "name": "valence:ui/creamy/hover1"
+      },
+      {
+        "name": "valence:ui/creamy/hover2"
+      }
+    ]
+  },
+  "ui.creamy.click": {
+    "sounds": [
+      {
+        "name": "valence:ui/creamy/click0"
+      },
+      {
+        "name": "valence:ui/creamy/click1"
+      },
+      {
+        "name": "valence:ui/creamy/click2"
+      }
+    ]
+  },
+  "ui.creamy.toggle_on": {
+    "sounds": [
+      {
+        "name": "valence:ui/creamy/toggle_on"
+      }
+    ]
+  },
+  "ui.creamy.toggle_off": {
+    "sounds": [
+      {
+        "name": "valence:ui/creamy/toggle_off"
+      }
+    ]
+  },
+  "ui.creamy.open": {
+    "sounds": [
+      {
+        "name": "valence:ui/creamy/open"
+      }
+    ]
+  }
+}

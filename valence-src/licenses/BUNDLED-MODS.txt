@@ -1,0 +1,13 @@
+Valence bundles two performance mods unchanged (as nested jars, Fabric "jar-in-jar"):
+
+- Lithium 0.26.3+mc26.3 by CaffeineMC (faster game logic)
+  License: GNU LGPL 3.0 (see LGPL-3.0-lithium.md)
+  Source code: https://github.com/CaffeineMC/lithium-fabric
+
+- ImmediatelyFast 1.17.1+26.3 by RaphiMC (faster HUD, text and item rendering)
+  License: GNU LGPL 3.0 or later (see LGPL-3.0-immediatelyfast.txt)
+  Source code: https://github.com/RaphiMC/ImmediatelyFast
+
+If you install a newer version of these mods yourself, Fabric automatically uses the newer one.
+Not bundled because their licenses do not allow it: Sodium (https://modrinth.com/mod/sodium) and
+Entity Culling (https://modrinth.com/mod/entityculling). Valence has its own entity culling built in.

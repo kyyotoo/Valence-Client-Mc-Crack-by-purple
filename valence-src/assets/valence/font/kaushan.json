@@ -1,0 +1,18 @@
+{
+ "providers": [
+  {
+   "type": "ttf",
+   "file": "valence:kaushan.ttf",
+   "size": 11,
+   "oversample": 6.0,
+   "shift": [
+    0,
+    0.5
+   ]
+  },
+  {
+   "type": "reference",
+   "id": "minecraft:default"
+  }
+ ]
+}
